@@ -23,19 +23,19 @@ Fun fact: I like games as much as coffee!
 <img src="https://img.shields.io/badge/-%20FEATURED%20PROJECTS%20-053B23?style=for-the-badge&labelColor=0d1117&color=ffffff" />
 
 **Solaris: Knight of the Crescent Moon** · *School Project*
-A turn-based fantasy RPG with an elemental wheel and stackable status effects. Python, Pygame CE.
+A 2D turn-based fantasy RPG with ten pixel-art zones, an elemental wheel, seven stackable status effects, two bosses, and two endings. Python, Pygame CE.
 [![itch.io](https://img.shields.io/badge/Play-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://katsumi001.itch.io/solaris)
 
+**Knight's Ascent** · *In Development*
+A precision platformer with 10 hand-crafted levels, a global speedrun timer, a leaderboard, and a death counter. GDevelop.
+[![itch.io](https://img.shields.io/badge/Play-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://katsumi001.itch.io/beta-knights-ascent)
+
 **Memory Card Matching Game**
-A memory game with progressive difficulty, a lives system, and persistent high scores. Python, Pygame.
+A card matching game with four difficulties, boards that grow up to 20 cards, a heart-based lives system, and saved high scores. Python, Pygame.
 [![itch.io](https://img.shields.io/badge/Play-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://katsumi001.itch.io/memory-card-game)
 
 **Game-Based Attendance System** · *School Project*
-A gamified attendance web app with separate Admin, Teacher, and Student panels. PHP, MySQL, HTML, CSS, JavaScript.
-
-**2D Platformer Game**
-A mechanics-driven 2D platformer. GDevelop.
-[![itch.io](https://img.shields.io/badge/Play-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://katsumi001.itch.io)
+A gamified attendance web app where students complete a game to log attendance, with separate Admin, Teacher, and Student panels. PHP, MySQL, HTML, CSS, JavaScript.
 
 <br>
 
