@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=053B23&height=140&section=header&text=Juan%20Migz%20%7C%20Katsumi&fontSize=36&fontColor=ffffff" width="100%" />
+</div>
 
-<!--
-**juanmigz01/juanmigz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSIT student aspiring to become a Game Programmer. Focused on building games using Unity and C# while developing core programming and system development skills.
 
-Here are some ideas to get you started:
+Fun fact: I like games as much as coffee!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://img.shields.io/badge/-%20TECH%20STACK%20-053B23?style=for-the-badge&labelColor=0d1117&color=ffffff" />
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-FE0000?style=for-the-badge&logo=python&logoColor=white)
+![GDevelop](https://img.shields.io/badge/GDevelop-1662FB?style=for-the-badge&logo=gdevelop&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+<img src="https://img.shields.io/badge/-%20FEATURED%20PROJECTS%20-053B23?style=for-the-badge&labelColor=0d1117&color=ffffff" />
+
+**Solaris: Knight of the Crescent Moon** · *School Project*
+A turn-based fantasy RPG with an elemental wheel and stackable status effects. Python, Pygame CE.
+[![itch.io](https://img.shields.io/badge/Play-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://katsumi001.itch.io/solaris)
+
+**Memory Card Matching Game**
+A memory game with progressive difficulty, a lives system, and persistent high scores. Python, Pygame.
+[![itch.io](https://img.shields.io/badge/Play-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://katsumi001.itch.io/memory-card-game)
+
+**Game-Based Attendance System** · *School Project*
+A gamified attendance web app with separate Admin, Teacher, and Student panels. PHP, MySQL, HTML, CSS, JavaScript.
+
+**2D Platformer Game**
+A mechanics-driven 2D platformer. GDevelop.
+[![itch.io](https://img.shields.io/badge/Play-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://katsumi001.itch.io)
+
+<br>
+
+<img src="https://img.shields.io/badge/-%20CONTACT%20-053B23?style=for-the-badge&labelColor=0d1117&color=ffffff" />
+
+- [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://katsumi001.itch.io) `katsumi001.itch.io`
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.katsumi.001@gmail.com) `dev.katsumi.001@gmail.com`
